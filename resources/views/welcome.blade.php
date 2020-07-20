@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Romesh vai the boss. gopal vai great
+                    Rafat is bad
                 </div>
 
                 <div class="links">
