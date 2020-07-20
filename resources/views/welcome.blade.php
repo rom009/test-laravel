@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Rafat is bad
+                   Yoo Bro!
                 </div>
 
                 <div class="links">
