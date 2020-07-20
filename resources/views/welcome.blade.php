@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Romesh vai the ultimate boss
                 </div>
 
                 <div class="links">
