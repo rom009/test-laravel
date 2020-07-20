@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Romesh vai the boss.
+                    Romesh vai the boss. DDD
                 </div>
 
                 <div class="links">
