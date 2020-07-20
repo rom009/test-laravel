@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Romesh vai the ultimate boss
+                    Romesh vai the ultimate boss.he is great
                 </div>
 
                 <div class="links">
